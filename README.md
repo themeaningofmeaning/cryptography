@@ -6,7 +6,7 @@ This is a basic cipher cryptography program written in C by Dylan Goldfus.
 *******************************************************************************	
 *******************************************************************************
 *******************************************************************************
-                  	Project Description:
+                  	Program Description:
 *******************************************************************************
 In this program, I will implement three basic cryptography procedures 
 at the user’s choice:
